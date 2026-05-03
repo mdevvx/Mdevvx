@@ -9,11 +9,11 @@
 </div>
 
 <!--Intro start-->
-- 🔭 **Software Engineer**
+- 🔭 **Software Engineer, Discord Bot Developer**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Python**
+- 💬 Ask me about **Python, Javascript, Typescript, React.js, Next.js, Node/Express.js, MongoDB, MySQL, PostgreSQL, Supabase**
 
 - 📫 Feel free to reach me out **muhammadnadeem.1596@gmail.com**
 
