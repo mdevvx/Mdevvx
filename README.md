@@ -14,10 +14,6 @@
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
 - 💬 Ask me about **Python, Javascript, Typescript, React.js, Next.js, Node/Express.js, MongoDB, MySQL, PostgreSQL, Supabase**
-
-- 📫 Feel free to reach me out **muhammadnadeem.1596@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [mod.hunter](https://discordapp.com/users/947795908119109652) my username!
 <!--Intro end-->
  
 <!--h1 without bottom border-->
