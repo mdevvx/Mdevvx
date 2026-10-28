@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🔭 **Software Engineer, Discord Bot Developer**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
+- 🌱 **Hyper Beast Stack for Scalable Applications**
 
 - 💬 Ask me about **Python, Javascript, Typescript, React.js, Next.js, Node/Express.js, MongoDB, MySQL, PostgreSQL, Supabase**
 <!--Intro end-->
